@@ -1,0 +1,7 @@
+{
+  "name": "Voice Command Shopping Assistant",
+  "description": "A smart shopping list manager that you can control with your voice. Add, remove, and manage items using natural language commands, get smart suggestions, and keep your list organized automatically.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
